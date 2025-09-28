@@ -26,3 +26,4 @@ print(time.time()-t0);"
 
 aws sns publish --topic-arn arn:aws:sns:ap-southeast-1:410403518174:awsnotify --message "RseJobDone"
 
+
